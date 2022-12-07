@@ -1,0 +1,4 @@
+chmod +x *add
+git add .
+git commit -m "sql"
+git push
